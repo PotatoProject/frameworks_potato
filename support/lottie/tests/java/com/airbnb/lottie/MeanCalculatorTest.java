@@ -1,6 +1,6 @@
-package aoscp.support.lottie;
+package potato.support.lottie;
 
-import aoscp.support.lottie.utils.MeanCalculator;
+import potato.support.lottie.utils.MeanCalculator;
 
 import org.junit.Before;
 import org.junit.Test;
